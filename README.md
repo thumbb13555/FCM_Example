@@ -38,7 +38,7 @@
  "to" : "/topics/news",
  "collapse_key" : "type_a",
  
- "data": {
+ "data" : {
      "body" : "快來看看我的官網!",
      "title": "來嘛來嘛",
      "key_1" : "http://thumbb13555.pixnet.net/blog",
